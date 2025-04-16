@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [SQL projects](https://github.com/christianaukoli/DA_porfolio_projects) and [Tableau Projects.](https://public.tableau.com/app/profile/christiana.ukoli/vizzes)
 
-- 🌱 I’m currently and actively improving my skills at **SQL, Tableau, JavaScript, Python, etc**
+- 🌱 I’m currently and actively improving my **SQL, Tableau, JavaScript, Python, etc** skills.
 
-- 👨‍💻 Get to know me better at [https://christiana.netlify.app/](https://christiana.netlify.app/)
+- 👨‍💻 See my previous web development at [https://christiana.netlify.app/](https://christiana.netlify.app/)
 
-- 📫 How to reach me **cukoli22@gmail.com**
+- 📫 How to reach me: **cukoli22@gmail.com**
 
-- ⚡ Fun fact **I can alternate lifting both eyebrows and I can juggle, but not at the same time.**
+- ⚡ Fun fact: **I can alternate lifting both eyebrows and I can juggle, but not at the same time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
