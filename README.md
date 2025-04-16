@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/chriss_codes" target="blank"><img src="https://img.shields.io/twitter/follow/chriss_codes?logo=twitter&style=for-the-badge" alt="chriss_codes" /></a> </p>
 
-- 🔭 I’m currently working on [SQL projects](https://github.com/christianaukoli/DA_porfolio_projects) and [Tableau Projects.](https://public.tableau.com/app/profile/christiana.ukoli/vizzes)
+- 🔭 I’m currently working on [SQL projects](https://github.com/christianaukoli/DA_porfolio_projects) and [Tableau dashboards.](https://public.tableau.com/app/profile/christiana.ukoli/vizzes)
 
 - 🌱 I’m currently and actively improving my **SQL, Tableau, JavaScript, Python, etc** skills.
 
