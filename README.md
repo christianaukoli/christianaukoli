@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Christiana!</h1>
-<h3 align="center">A down-to-earth and dedicated full stack developer in Nashville, TN.</h3>
+<h3 align="center">A down-to-earth and dedicated lifelong learner in Nashville, TN.</h3>
 
 <p align="left"> <a href="https://twitter.com/chriss_codes" target="blank"><img src="https://img.shields.io/twitter/follow/chriss_codes?logo=twitter&style=for-the-badge" alt="chriss_codes" /></a> </p>
 
 - 🔭 I’m currently working on [a State Capitals web app.](https://github.com/christianaukoli/state-capitals-api)
 
-- 🌱 I’m currently and actively improving my skills at **HTML, CSS, JS, Node.js, React.js, etc**
+- 🌱 I’m currently and actively improving my skills at **SQL, Tableau, JavaScript, Python, etc**
 
 - 👨‍💻 Get to know me better at [https://christiana.netlify.app/](https://christiana.netlify.app/)
 
 - 📫 How to reach me **cukoli22@gmail.com**
 
-- ⚡ Fun fact **I can alternate lifting both eyebrows and I can juggle, but not at the same time lol.**
+- ⚡ Fun fact **I can alternate lifting both eyebrows and I can juggle, but not at the same time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
